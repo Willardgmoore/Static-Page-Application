@@ -1,0 +1,54 @@
+Project Time
+
+Create Static Pages Application
+
+PART ONE:
+
+Build a personal resume website for the person sitting next to you with only static pages (a single static controller and corresponding views, NO models.)
+
+Initial setup: Create your new rails project (be sure to NOT put it in a pre-existing git repository), initialize your local git repository for your new project, make your initial commit, set up a new github respository for the project and push your initial commit to your github repository.
+
+Personal Resume Website should inlcude the following pages (at least):
+  Home
+  About
+  Work History
+  Education
+
+- Make sure you set up an appropiate root page.
+
+- Include a navagation bar that links to all the other pages for every page. This should be in the form of a partial.
+
+- Add appropriate content to each page.
+
+- Style the pages in a simple yet aesthetically pleasing manner. Don't get carried away, just add some color and position the elements on the page all pretty like.
+
+=====================================
+
+== README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
+
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.
